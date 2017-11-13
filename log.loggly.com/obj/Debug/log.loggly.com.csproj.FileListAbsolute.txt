@@ -1,0 +1,12 @@
+c:\users\psqit\source\repos\log.loggly.com\log.loggly.com\bin\Debug\log.loggly.com.exe.config
+c:\users\psqit\source\repos\log.loggly.com\log.loggly.com\bin\Debug\log.loggly.com.exe
+c:\users\psqit\source\repos\log.loggly.com\log.loggly.com\bin\Debug\log.loggly.com.pdb
+c:\users\psqit\source\repos\log.loggly.com\log.loggly.com\bin\Debug\log4net-loggly.dll
+c:\users\psqit\source\repos\log.loggly.com\log.loggly.com\bin\Debug\log4net.dll
+c:\users\psqit\source\repos\log.loggly.com\log.loggly.com\bin\Debug\Newtonsoft.Json.dll
+c:\users\psqit\source\repos\log.loggly.com\log.loggly.com\bin\Debug\log4net.xml
+c:\users\psqit\source\repos\log.loggly.com\log.loggly.com\bin\Debug\Newtonsoft.Json.xml
+c:\users\psqit\source\repos\log.loggly.com\log.loggly.com\obj\Debug\log.loggly.com.csprojResolveAssemblyReference.cache
+c:\users\psqit\source\repos\log.loggly.com\log.loggly.com\obj\Debug\log.loggly.com.csproj.CoreCompileInputs.cache
+c:\users\psqit\source\repos\log.loggly.com\log.loggly.com\obj\Debug\log.loggly.com.exe
+c:\users\psqit\source\repos\log.loggly.com\log.loggly.com\obj\Debug\log.loggly.com.pdb
